@@ -10,8 +10,8 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/resultssummarycomponent-with-simple-html-and-css-g0JThUmioD)
-- [Live Site URL](https://gamesdst.github.io/results-summary-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/baseapparelcomingsoon-with-simple-html-and-css-fgbIbVgZUL)
+- [Live Site URL](https://gamesdst.github.io/base-apparel-coming-soon/)
 
 ### Built with
 
